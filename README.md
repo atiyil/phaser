@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![div](http://www.phaser.io/images/github/welcome-div2.png)
 
 # Phaser
@@ -419,3 +420,6 @@ All rights reserved.
 [game16]: http://phaser.io/news/2015/05/trappy-trap
 [game17]: http://phaser.io/news/2015/04/runaway-ruins
 [game18]: http://phaser.io/news/2015/04/ananias
+=======
+# phaser
+>>>>>>> 4c9fdcf13afc19d042f1d551c1807ad4e1496c20
